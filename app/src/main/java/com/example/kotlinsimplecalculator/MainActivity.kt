@@ -60,18 +60,18 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-//    fun test() {
-//
-//        var asd = 2
-//        var hjk = 2
-//
-//        if (asd != 3) {
-//            kotlin.io.print("success")
-//
-//            var jkl = 2
-//        }
-//
-//
-//    }
+    fun test() {
+
+        var asd = 2
+        var hjk = 2
+
+        if (asd != 3) {
+            kotlin.io.print("success")
+
+            var jkl = 2
+        }
+
+
+    }
 
 }
